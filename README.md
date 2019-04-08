@@ -9,7 +9,7 @@ As a system user invoke:
     name: demo
   secret: demo
   redirectURIs:
-    - "http://nodejs-rest-http-launcher.192.168.42.21.nip.io/#access_token=VlU8rotZULYiVpAgZ7I6Et_A4WtuBciJm7NOGtGLWz8&expires_in=86400&scope=user%3Afull&token_type=Bearer"
+    - "http://nodejs-rest-http-launcher.192.168.42.21.nip.io/"
   grantMethod: prompt
   ')     
 ```
